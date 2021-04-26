@@ -1,0 +1,5 @@
+C:\Users\Karol\Desktop\c-sharp\Ejercicios\_ProyectoFinalPOS\obj\Debug\net5.0\ProyectoFinalPOS.csprojAssemblyReference.cache
+C:\Users\Karol\Desktop\c-sharp\Ejercicios\_ProyectoFinalPOS\obj\Debug\net5.0\ProyectoFinalPOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karol\Desktop\c-sharp\Ejercicios\_ProyectoFinalPOS\obj\Debug\net5.0\ProyectoFinalPOS.AssemblyInfoInputs.cache
+C:\Users\Karol\Desktop\c-sharp\Ejercicios\_ProyectoFinalPOS\obj\Debug\net5.0\ProyectoFinalPOS.AssemblyInfo.cs
+C:\Users\Karol\Desktop\c-sharp\Ejercicios\_ProyectoFinalPOS\obj\Debug\net5.0\ProyectoFinalPOS.csproj.CoreCompileInputs.cache
