@@ -47,7 +47,7 @@ public class DatosdePrueba
         Cliente c1 = new Cliente(1, "Dina Castro", "1811-1967-00127");
         ListadeClientes.Add(c1);
 
-        Cliente c2 = new Cliente(2, "Adriana Perez", "PEMA980309MVZRDD01");
+        Cliente c2 = new Cliente(2, "Adriana Perez", "0501-2000-13120");
         ListadeClientes.Add(c2);
 
         Cliente c3 = new Cliente(3, "Bryan  Rodriguez", "0501-1998-00909");

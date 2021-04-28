@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 public class Venta
 {
+    
     public int Codigo { get; set; }
     public DateTime Fecha { get; set; }
     public string NumerodeVenta { get; set; }

@@ -14,11 +14,11 @@ namespace _ProyectoFinalPOS
                 Console.Clear();
                 Console.WriteLine("= Sistema POS =");
                 Console.WriteLine("");
-                Console.WriteLine("1 - Lista de Productos");
-                Console.WriteLine("2 - Crear Venta");
-                Console.WriteLine("3 - Lista de Clientes");
-                Console.WriteLine("4 - Lista de Vendedores");
-                Console.WriteLine("5 - Reporte de Ventas");
+                Console.WriteLine("01 - Lista de Productos");
+                Console.WriteLine("02 - Crear Venta");
+                Console.WriteLine("03 - Lista de Clientes");
+                Console.WriteLine("04 - Lista de Vendedores");
+                Console.WriteLine("05 - Reporte de Ventas");
                 Console.WriteLine("0 - Salir");
                 opcion = Console.ReadLine();
 
