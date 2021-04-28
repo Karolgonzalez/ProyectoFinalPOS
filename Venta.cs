@@ -36,3 +36,4 @@ public class Venta
         Total += SubTotal + Impuesto;
     }
 }
+

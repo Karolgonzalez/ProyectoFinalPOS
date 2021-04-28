@@ -8,4 +8,5 @@ public class Vendedor: Persona
         Nombre = nombre;
         CodigoVendedor = codigoVendedor;
     }
+
 }
